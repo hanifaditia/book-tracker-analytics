@@ -1,0 +1,9 @@
+id,title,author,cover,rating,pages,genre,status
+1,The Great Gatsby,F. Scott Fitzgerald,https://covers.openlibrary.org/b/id/12749894-L.jpg,4.2,180,Classic,read
+2,To Kill A Mockingbird,Harper Lee,https://covers.openlibrary.org/b/id/12749895-L.jpg,4.8,376,Fiction,read
+3,1984,George Orwell,https://covers.openlibrary.org/b/id/12749896-L.jpg,4.6,328,Dystopian,reading
+4,Pride And Prejudice,Jane Austen,https://covers.openlibrary.org/b/id/12749897-L.jpg,4.4,432,Romance,want-to-read
+5,The Catcher In The Rye,J.D. Salinger,https://covers.openlibrary.org/b/id/12749898-L.jpg,3.8,277,Coming-Of-Age,read
+6,Harry Potter And The Sorcerer'S Stone,J.K. Rowling,https://covers.openlibrary.org/b/id/12749899-L.jpg,4.7,309,Fantasy,read
+7,The Lord Of The Rings,J.R.R. Tolkien,https://covers.openlibrary.org/b/id/12749900-L.jpg,4.9,1216,Fantasy,want-to-read
+8,Dune,Frank Herbert,https://covers.openlibrary.org/b/id/12749901-L.jpg,4.3,688,Sci-Fi,reading

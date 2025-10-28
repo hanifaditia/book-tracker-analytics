@@ -1,0 +1,11 @@
+user_id,avg_completion_rate,segment,total_pages_read,total_books_completed,avg_reading_speed,most_read_genre
+0,0.46499999999999997,Moderate Reader,1966,6,58.044444444444444,Fantasy
+1,0.36,Casual Reader,1366,5,76.96666666666667,Coming-Of-Age
+2,0.5425,Moderate Reader,2118,5,92.15277777777777,Fantasy
+3,0.73625,Moderate Reader,2991,5,,Dystopian
+4,0.45999999999999996,Moderate Reader,1337,8,38.05625,Fantasy
+5,0.68,Moderate Reader,2919,7,177.16666666666666,Fantasy
+6,0.29375,Casual Reader,1258,5,15.030952380952382,Fantasy
+7,0.4275,Moderate Reader,1367,5,24.6,Fantasy
+8,0.55625,Moderate Reader,1917,5,22.57936507936508,Coming-Of-Age
+9,0.3675,Casual Reader,1254,4,54.75,Coming-Of-Age
